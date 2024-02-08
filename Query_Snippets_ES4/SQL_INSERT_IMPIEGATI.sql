@@ -1,0 +1,23 @@
+INSERT INTO IMPIEGATI (Cognome, Nome, CF, Eta, RedditoMensile, DetrazioneFiscale)
+VALUES 
+('Rossi', 'Mario', 'RSSMRO60A01H501P', 40, 2500.00, '0'),
+('Bianchi', 'Luca', 'BNCLCU60B01H501M', 35, 3000.00, '1'),
+('Verdi', 'Giulia', 'VRDGLI70C01H501K', 30, 2800.00, '0'),
+('Neri', 'Sara', 'NRISRA80D01H501J', 25, 2700.00, '1'),
+('Gialli', 'Marco', 'GLLMRC90E01H501H', 28, 2600.00, '0'),
+('Marrone', 'Elena', 'MRRELN85F01H501E', 33, 2750.00, '1'),
+('Viola', 'Paolo', 'VLPPLA75G01H501C', 45, 3100.00, '0'),
+('Azzurri', 'Anna', 'AZZANN65H01H501A', 55, 2900.00, '1'),
+('Arancio', 'Giorgio', 'ARNGRG55I01H501M', 60, 3200.00, '0'),
+('Celesti', 'Martina', 'CLSMRT45L01H501V', 38, 3050.00, '1'),
+('Francesco', 'DiNoi', 'FRCDN0C07H485PER', 23, 2320.00, '0'),
+('Bruno', 'Francesco', 'BRNFNC50J01H501Q', 42, 2650.00, '0'),
+('Russo', 'Alessia', 'RSSALC70K01H501Z', 37, 2870.00, '1'),
+('Ferrari', 'Antonio', 'FRRANT60L01H501S', 32, 2950.00, '0'),
+('Esposito', 'Laura', 'ESPLRA80M01H501D', 26, 3100.00, '1'),
+('Bianco', 'Roberto', 'BNCRRT90N01H501W', 29, 3200.00, '0'),
+('Romano', 'Elisa', 'RMNELS85O01H501X', 34, 2850.00, '1'),
+('Colombo', 'Davide', 'CLMDVD75P01H501J', 48, 3000.00, '0'),
+('Ricci', 'Chiara', 'RCCCHR65Q01H501R', 58, 3050.00, '1'),
+('Marino', 'Federico', 'MRNFRC55R01H501T', 63, 2600.00, '0'),
+('Greco', 'Valentina', 'GRCVLT45S01H501Y', 39, 3150.00, '1');
